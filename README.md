@@ -20,8 +20,9 @@ A web-based dashboard to track and visualize live stock market data using Python
 - Yahoo Finance API (`yfinance`)
 
 ## 📦 Installation & Run
-```bash
 
+```bash
+git clone https://github.com/Anjali-OB/real-time-stock-dashboard.git
 cd stock_dashboard
 pip install -r requirements.txt
 streamlit run app.py
