@@ -21,7 +21,7 @@ A web-based dashboard to track and visualize live stock market data using Python
 
 ## 📦 Installation & Run
 ```bash
-git clone <your-repo-url>
+
 cd stock_dashboard
 pip install -r requirements.txt
 streamlit run app.py
